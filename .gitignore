@@ -10,3 +10,4 @@ env/
 __pypackages__/
 env.bak/
 venv.bak/
+pyvenv.cfg
